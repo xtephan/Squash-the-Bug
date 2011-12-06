@@ -1,0 +1,49 @@
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\MainWindow.baml
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\MainWindow.g.cs
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\App.g.cs
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_MarkupCompile.cache
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.g.resources
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.Properties.Resources.resources
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\bin\Debug\countdown_bug_testing.pdb
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe
+c:\users\compaq\documents\visual studio 2010\Projects\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.pdb
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.pdb
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\countdown_bug_testing.pdb
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\MainWindow.baml
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\App.g.cs
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_MarkupCompile.cache
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.g.resources
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.Properties.Resources.resources
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_Content.g.cs
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\squash_sound.wav
+C:\Users\juji\Desktop\Squash that Bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\fly_sound_wind.wav
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.pdb
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\fly_sound_wind.wav
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\squash_sound.wav
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\countdown_bug_testing.pdb
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\MainWindow.baml
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\MainWindow.g.cs
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\App.g.cs
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_Content.g.cs
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_MarkupCompile.cache
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.g.resources
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.Properties.Resources.resources
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\school\Health Games Lab\squash the bug\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\GenerateResource.write.1.tlog
