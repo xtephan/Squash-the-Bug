@@ -26,7 +26,7 @@ using System.Threading;
 using System.Windows.Threading;
 
 
-namespace WpfApplication1
+namespace countdown_bug_testing
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -45,13 +45,14 @@ namespace WpfApplication1
 
         //Stefan's global vars
         //Runtime nui = Runtime.Kinects[0];
-        Runtime nui;
+        public Runtime nui;
+        public int DifficultyLevel = 0;
         private short MaxX= 640;
         private short MaxY= 860;
 
-        private int score_points = 0;
+        public int score_points = 0;
 
-        SoundPlayer squash_sound, backround_sound;
+        SoundPlayer squash_sound, backround_sound, cheer_sound;
 
 
 
@@ -69,18 +70,12 @@ namespace WpfApplication1
         private void pausebutton(object sender, EventArgs e)
         {
 
-            playing = false;
-
-            timer1.Stop();
-            timeBlock.Text = counter.ToString();
-
-            timer2.Stop();
-            counter2 = 60;
 
         }
 
         private void stopbutton(object sender, EventArgs e)
         {
+
             playing = false;
 
             timer1.Stop();
@@ -88,12 +83,23 @@ namespace WpfApplication1
             if (counter == 60)
                 timer2.Stop();
             counter2 = 60;
-            timeBlock.Text = counter.ToString();
+            timeBlock.Text = "Time Left: " +  counter.ToString();
 
         }
 
-        //countdown
-        private void startbutton(object sender, EventArgs e)
+        public void pausefromMenu()
+        {
+            playing = false;
+
+            timer1.Stop();
+            timeBlock.Text = "Time Left: " + counter.ToString();
+
+            timer2.Stop();
+            counter2 = 60;
+        }
+
+
+        public void startFromMenu()
         {
             playing = true;
 
@@ -102,44 +108,56 @@ namespace WpfApplication1
             timer1.Tick += new EventHandler(timer1_Tick);
             timer1.Interval = 1000;
             timer1.Start();
-            timeBlock.Text = counter.ToString();
+            timeBlock.Text = "Time Left: " + counter.ToString();
 
-            
+
             int counter2 = 60;
             timer2 = new System.Windows.Forms.Timer();
             timer2.Tick += new EventHandler(timer2_Tick);
             //timer2.Interval = 1000;
             timer2.Start();
-                                    
-            string Level = "Level selected: EASY";
-            if (easybttn.IsChecked == true)
-            {                
-                textBlock1.Text = Level;
-                timer2.Interval = 3000;
-            }
 
-            string Level1 = "Level selected: MEDIUM";
-            if (medbttn.IsChecked == true)
+            string Leveltxt="";
+            int inter=3000;
+
+            switch (DifficultyLevel)
             {
-                textBlock1.Text = Level1;
-                timer2.Interval = 2000;
+                case 0:
+                    {
+                        Leveltxt = "EASY";
+                        inter = 3000;
+                        break;
+                    }
+                case 1:
+                    {
+                        Leveltxt = "MEDIUM";
+                        inter = 2000;
+                        break;
+                    }
+                case 2:
+                    {
+                        Leveltxt = "HARD";
+                        inter = 1000;
+                        break;
+                    }
+                case 3:
+                    {
+                        Leveltxt = "INSANE";
+                        inter = 500;
+                        break;
+                    }
             }
 
-            string Level2 = "Level selected: HARD";
-            if (hardbttn.IsChecked == true)
-            {
-                textBlock1.Text = Level2;
-                timer2.Interval = 1000;
-            }
+            textBlock1.Text = "Level selected: " + Leveltxt;
+            timer2.Interval = inter;
 
-            string Level3 = "Level selected: INSANE";
-            if (insbttn.IsChecked == true)
-            {
-                textBlock1.Text = Level3;
-                timer2.Interval = 500;
-            }
+        }
 
 
+        //countdown
+        private void startbutton(object sender, EventArgs e)
+        {
+            startFromMenu();
         }
 
         private int k = 0;
@@ -163,8 +181,15 @@ namespace WpfApplication1
             {
                 playing = false;
                 timer1.Stop();
+
+                cheer_sound.Play();
+
+                //System.Windows.MessageBox.Show("Game over! Your score is " + score_points.ToString() + "! Congrats! \nIn order to start a new game, press Start", "Game over", MessageBoxButton.OK, MessageBoxImage.Information);
+                this.Close();
+                
+
             }
-            timeBlock.Text = counter.ToString();
+            timeBlock.Text = "Time Left: " + counter.ToString();
 
         }
 
@@ -187,9 +212,10 @@ namespace WpfApplication1
         {
 
             squash_sound = new SoundPlayer("squash_sound.wav");
-            backround_sound = new SoundPlayer("fly_sound_wind.wav");
+            backround_sound = new SoundPlayer("fly_sound_wind.wav"); 
+            cheer_sound = new SoundPlayer("cheer.wav");
 
-            backround_sound.PlayLooping();
+            //backround_sound.PlayLooping();
 
             SetupKinect();
 
@@ -199,36 +225,22 @@ namespace WpfApplication1
 
         void SetupKinect()
         {
-            if (Runtime.Kinects.Count == 0)
-            {
-                this.Title = "No Kinect connected";
-            }
-            else
-            {
-                //use first Kinect
-                nui = Runtime.Kinects[0];
-
-                //Initialize to do skeletal tracking
-                nui.Initialize(RuntimeOptions.UseSkeletalTracking);
-
-                //add event to receive skeleton data
-                nui.SkeletonFrameReady += new EventHandler<SkeletonFrameReadyEventArgs>(nui_SkeletonFrameReady);
-
-
-                nui.SkeletonEngine.TransformSmooth = true;
-                TransformSmoothParameters parameters = new TransformSmoothParameters();
-                parameters.Smoothing = 0.7f;
-                parameters.Correction = 0.9f;
-                parameters.Prediction = 0.9f;
-                parameters.JitterRadius = 1.0f;
-                parameters.MaxDeviationRadius = 0.5f;
-                nui.SkeletonEngine.SmoothParameters = parameters;
-
-
-            }
+            
+            nui.VideoFrameReady += new EventHandler<ImageFrameReadyEventArgs>(nui_ColorFrameReady);
+            
+            nui.SkeletonFrameReady += new EventHandler<SkeletonFrameReadyEventArgs>(nui_SkeletonFrameReady);
 
         }
 
+
+        //event Handler for video
+        void nui_ColorFrameReady(object sender, ImageFrameReadyEventArgs e)
+        {
+            // 32-bit per pixel, RGBA image
+            PlanarImage Image = e.ImageFrame.Image;
+            video.Source = BitmapSource.Create(
+                Image.Width, Image.Height, 96, 96, PixelFormats.Bgr32, null, Image.Bits, Image.Width * Image.BytesPerPixel);
+        }
 
         void nui_SkeletonFrameReady(object sender, SkeletonFrameReadyEventArgs e)
         {
@@ -270,7 +282,7 @@ namespace WpfApplication1
                     myDoubleAnimation.From = 1.0;
                     myDoubleAnimation.To = 0.0;
 
-                    myDoubleAnimation.Duration = new Duration(TimeSpan.FromSeconds(1.5));
+                    myDoubleAnimation.Duration = new Duration(TimeSpan.FromSeconds(1));
 
                     Storyboard myStoryboard;
 
@@ -324,7 +336,7 @@ namespace WpfApplication1
 
         private bool ae(double bug_left_pos, float p)
         {
-            return Math.Abs(bug_left_pos - p) < 25;
+            return Math.Abs(bug_left_pos - p) < 50;
         }
 
 
@@ -346,7 +358,11 @@ namespace WpfApplication1
 
         private void Window_Closed(object sender, EventArgs e)
         {
-            nui.Uninitialize();
+            //nui.Uninitialize();
+        }
+
+        ~MainWindow()
+        {
         }
 
 

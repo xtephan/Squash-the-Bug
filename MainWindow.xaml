@@ -1,62 +1,54 @@
-﻿<Window x:Class="WpfApplication1.MainWindow"
+﻿<Window x:Class="countdown_bug_testing.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="Squash The Bug" Height="550" Width="900" Background="AntiqueWhite" Loaded="Window_Loaded" Closed="Window_Closed">
+        Title="Squash The Bug - Game Area" Height="550" Width="900" Background="AntiqueWhite" Loaded="Window_Loaded" Closed="Window_Closed" Icon="/countdown_bug_testing;component/bug_defender_icns.png" Visibility="Visible" Topmost="True">
     <Grid>
 
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="70*" />
-            <ColumnDefinition Width="433*" />
+            <ColumnDefinition Width="122*" />
+            <ColumnDefinition Width="67*" />
+            <ColumnDefinition Width="689*" />
         </Grid.ColumnDefinitions>
 
         <Image    
             Width="900" Height="550"
-            Stretch="Fill" Source="grass.jpg"   
+            Stretch="Fill" Source="floor.jpg"   
             StretchDirection="UpOnly" VerticalAlignment="Bottom"   
-            HorizontalAlignment="Left" Grid.ColumnSpan="2" Margin="0,0,0,-9" Opacity="0.75" />
+            HorizontalAlignment="Left" Grid.ColumnSpan="3" Margin="0,0,0,-9" Opacity="0.8" />
+        <TextBlock Text="Not Tracking" Name="TrackBug" TextAlignment="Center" FontSize="16" Margin="10,450,671,34" Grid.ColumnSpan="3" FontWeight="DemiBold" />
 
-        <Button Click="startbutton" Margin="10,20,671,460" Grid.ColumnSpan="2" Background="BurlyWood" FontFamily="Calibri" FontSize="20" FontWeight="DemiBold">Start</Button>
-        <Button Click="pausebutton" Margin="10,55,671,425" Grid.ColumnSpan="2" Background="BurlyWood" FontFamily="Calibri" FontSize="20" FontWeight="DemiBold">Pause</Button>
-        <Button Click="stopbutton" Margin="10,92,671,388" Grid.ColumnSpan="2" Background="BurlyWood" FontFamily="Calibri" FontSize="20" FontWeight="DemiBold">Stop</Button>
+        <TextBlock Height="35" HorizontalAlignment="Left" Name="timeBlock" Text="  " VerticalAlignment="Top" Margin="12,29,0,0" FontFamily="Calibri" FontSize="20" FontWeight="Bold" Width="195" Grid.ColumnSpan="3" TextAlignment="Center" />
 
-        <TextBlock Text="Not Tracking" Name="TrackBug" TextAlignment="Center" FontSize="16" Margin="10,450,671,34" Grid.ColumnSpan="2" FontWeight="DemiBold" />
+        <Canvas Height="480" HorizontalAlignment="Left" Margin="33,14,0,0" Name="canvas1" VerticalAlignment="Top" Width="640" Grid.Column="2" Background="Black" >
 
-        <TextBlock Height="23" HorizontalAlignment="Left" Name="timeBlock" Text="  " VerticalAlignment="Top" Margin="98,0,0,0" FontFamily="Calibri" FontSize="20" FontWeight="Bold"/>
-        
-            <Canvas Height="480" HorizontalAlignment="Left" Margin="100,14,0,0" Name="canvas1" VerticalAlignment="Top" Width="640" Grid.Column="1" Background="Black">
+            <Image Canvas.Left="0" Canvas.Top="0" Height="480" Name="image1" Stretch="Fill" Width="640" Source="dark_floor_squashBIG.jpg" />
+            <Ellipse Canvas.Left="0" Canvas.Top="0" Height="50" Name="bug"  Width="50" >
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="bug_tr.png" />
+                </Ellipse.Fill>
+            </Ellipse>
 
-                <Image Canvas.Left="0" Canvas.Top="0" Height="480" Name="image1" Stretch="Fill" Width="640" Source="dark_floor_squashBIG.jpg"/>
-                <Ellipse Canvas.Left="0" Canvas.Top="0" Height="30" Name="bug" Stroke="Black" Width="30"  >
-                    <Ellipse.Fill>
-                        <ImageBrush ImageSource="bug.jpg" />
-                    </Ellipse.Fill>
-                </Ellipse>
-
-            <Ellipse Canvas.Left="153" Canvas.Top="41" Height="55" Name="sange"  Width="55"  Opacity="0">
+            <Ellipse Canvas.Left="153" Canvas.Top="41" Height="75" Name="sange"  Width="75"  Opacity="0">
                 <Ellipse.Fill>
                     <ImageBrush ImageSource="blood4t.png" />
                 </Ellipse.Fill>
             </Ellipse>
 
-            <Ellipse Canvas.Left="304" Canvas.Top="178" Height="40" Name="leftEllipse" Stroke="Black" Width="40" Opacity="0.7" >
-                    <Ellipse.Fill>
-                        <ImageBrush ImageSource="palma.jpg"/>
-                    </Ellipse.Fill>
-                </Ellipse>
+            <Ellipse Canvas.Left="6" Canvas.Top="178" Height="70" Name="leftEllipse" Width="70" Opacity="1" >
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="palma.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
 
-                <Ellipse Canvas.Left="6" Canvas.Top="178" Height="40" Name="rightEllipse" Stroke="Black" Width="40" Opacity="0.7">
-                    <Ellipse.Fill>
-                        <ImageBrush ImageSource="palma.jpg"/>
-                    </Ellipse.Fill>
-                </Ellipse>
+            <Ellipse Canvas.Left="282" Canvas.Top="178" Height="70" Name="rightEllipse" Width="70" Opacity="1">
+                <Ellipse.Fill>
+                    <ImageBrush ImageSource="palmaDreapta.png"/>
+                </Ellipse.Fill>
+            </Ellipse>
 
-            </Canvas>
-        
-        <RadioButton Content="Easy" Height="26" HorizontalAlignment="Left" Margin="34,129,0,0" Name="easybttn" VerticalAlignment="Top" FontFamily="Calibri" FontSize="20" FontWeight="Bold"/>
-        <RadioButton Content="Medium" Height="26" HorizontalAlignment="Left" Margin="34,160,0,0" Name="medbttn" VerticalAlignment="Top" FontFamily="Calibri" FontSize="20" FontWeight="Bold" Grid.ColumnSpan="2" Width="105" />
-        <RadioButton Content="Hard" Height="25" HorizontalAlignment="Left" Margin="34,192,0,0" Name="hardbttn" VerticalAlignment="Top" FontFamily="Calibri" FontSize="20" FontWeight="Bold" Grid.ColumnSpan="2" Width="89" />
-        <TextBlock Grid.ColumnSpan="2" Height="30" HorizontalAlignment="Left" Margin="10,475,0,0" Name="textBlock1" Text="" VerticalAlignment="Top" Width="197" FontFamily="Calibri" FontSize="18" FontWeight="Bold"/>
-        <RadioButton Content="Insane" Height="27" HorizontalAlignment="Left" Margin="34,223,0,0" Name="insbttn" VerticalAlignment="Top" FontFamily="Calibri" FontSize="20" FontWeight="Bold" Width="88" />
-        <TextBlock FontSize="18" Grid.ColumnSpan="2" Margin="22,256,671,228" Name="score_display" Text="Score: 0" TextAlignment="Center" FontWeight="Bold"/>
+        </Canvas>
+        <TextBlock Grid.ColumnSpan="3" Height="30" HorizontalAlignment="Left" Margin="10,475,0,0" Name="textBlock1" Text="" VerticalAlignment="Top" Width="197" FontFamily="Calibri" FontSize="18" FontWeight="Bold" TextAlignment="Center" />
+        <TextBlock FontSize="18" Grid.ColumnSpan="3" Margin="12,103,671,381" Name="score_display" Text="Score: 0" TextAlignment="Center" FontWeight="Bold"/>
+        <Image Name="video" Margin="12,276,671,80" Grid.ColumnSpan="3" />
     </Grid>
 </Window>

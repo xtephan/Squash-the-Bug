@@ -1,0 +1,10 @@
+﻿map 65
+xtf 60
+vld 58
+xxx 53
+xxy 50
+xyy 45
+yyy 30
+plm 22
+tty 20
+eee 10

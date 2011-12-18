@@ -1,0 +1,153 @@
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\bin\Debug\cheer.wav
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\bin\Debug\fly_sound_wind.wav
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\bin\Debug\squash_sound.wav
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe.manifest
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\bin\Debug\countdown_bug_testing.application
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\bin\Debug\countdown_bug_testing.pdb
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\MainWindow.baml
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\App.g.cs
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_Content.g.cs
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_MarkupCompile.cache
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.g.resources
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.Properties.Resources.resources
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe.manifest
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.application
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe
+C:\Users\juji\Desktop\final fly\countdown_bug_testing\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.pdb
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.pdb
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\cheer.wav
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\fly_sound_wind.wav
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\squash_sound.wav
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe.manifest
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\countdown_bug_testing.application
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\countdown_bug_testing.pdb
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\MainWindow.baml
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\App.g.cs
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_Content.g.cs
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_MarkupCompile.cache
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.g.resources
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.Properties.Resources.resources
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe.manifest
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.application
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\WindowMenu.baml
+C:\Users\juji\Desktop\final fly\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\WindowMenu.g.cs
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.pdb
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\cheer.wav
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\fly_sound_wind.wav
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\squash_sound.wav
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe.manifest
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\countdown_bug_testing.application
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\countdown_bug_testing.pdb
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\MainWindow.baml
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\WindowMenu.baml
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\MainWindow.g.cs
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\WindowMenu.g.cs
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\App.g.cs
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_Content.g.cs
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_MarkupCompile.cache
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.g.resources
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.Properties.Resources.resources
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe.manifest
+D:\school\Health Games Lab\squash the bug\squash-beta\countdown_bug_testing - beta\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.application
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.pdb
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\bin\Debug\cheer.wav
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\bin\Debug\fly_sound_wind.wav
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\bin\Debug\squash_sound.wav
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe.manifest
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\bin\Debug\countdown_bug_testing.application
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\bin\Debug\countdown_bug_testing.pdb
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\MainWindow.baml
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\WindowMenu.baml
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\WindowMenu.g.cs
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\App.g.cs
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_Content.g.cs
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_MarkupCompile.cache
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.g.resources
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.Properties.Resources.resources
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe.manifest
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.application
+C:\Users\xtephan\Desktop\squash - final night\menu manual\countdown_bug_testing\bin\Debug\menu_select2.wav
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.pdb
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\bin\Debug\cheer.wav
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\bin\Debug\fly_sound_wind.wav
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\bin\Debug\menu_select2.wav
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\bin\Debug\squash_sound.wav
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe.manifest
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\bin\Debug\countdown_bug_testing.application
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\bin\Debug\countdown_bug_testing.pdb
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\MainWindow.baml
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\WindowMenu.baml
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\WindowMenu.g.cs
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\App.g.cs
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_Content.g.cs
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_MarkupCompile.cache
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.g.resources
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.Properties.Resources.resources
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe.manifest
+C:\Users\xtephan\Desktop\squash - final night\2high score\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.application
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.pdb
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\MainWindow.baml
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\WindowMenu.baml
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\MainWindow.g.cs
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\WindowMenu.g.cs
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\App.g.cs
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_Content.g.cs
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing_MarkupCompile.cache
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.g.resources
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.Properties.Resources.resources
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\bin\Debug\cheer.wav
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\bin\Debug\fly_sound_wind.wav
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\bin\Debug\menu_select2.wav
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\bin\Debug\squash_sound.wav
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe.manifest
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\bin\Debug\countdown_bug_testing.application
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\bin\Debug\countdown_bug_testing.exe
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\bin\Debug\countdown_bug_testing.pdb
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.exe.manifest
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\countdown_bug_testing.application
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\Interop.SpeechLib.dll
+C:\Users\xtephan\Desktop\squash - final night\3voice\countdown_bug_testing\obj\x86\Debug\Squash_the_Bug.csproj.ResolveComReference.cache

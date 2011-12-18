@@ -1,0 +1,10 @@
+map 65
+xtf 60
+vld 58
+xxx 53
+xxy 50
+QQQ 47
+xyy 45
+C__ 38
+yyy 30
+plm 22
